@@ -1,0 +1,8 @@
+xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx EmptyCavePath        GiantSpiderRoom      LeaveCaveRoom
+xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx EmptyCavePath        xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx FindRockRoom         xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx
+GiantSpiderRoom      EmptyCavePath        StartingRoom         EmptyCavePath        FindDaggerRoom
+xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx EmptyCavePath        OgreRoom             xxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx
